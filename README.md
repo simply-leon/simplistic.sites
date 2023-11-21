@@ -58,9 +58,7 @@ These hosts will host **any** file for you. This includes all files types such a
 # Software Hosting
 This one is the hardest to find, not only is it highly in demand for developers. It's also expensive and causes most newly hosting services shutdown within the first week. Some options below are some you may use.
 
-- [PylexHosting](https://client.pylexnodes.net/) - An underrated hosting that provides `Minecraft Servers, NodeJS and Python` hosting. `10240MB Disk, 3072MB Ram, 150% CPU`
-
-- [Linode](https://www.linode.com/) - Best option If you're looking for messing around with VMs and etc.
+- [Linode](https://www.linode.com/) - Best option If you're looking for messing around with VMs and etc. Personally wouldn't use for hosting
 
 These are the only options I were able to find that were good. Linode is an all-purpose hosting service which hosts `VMs` and `VPS`. Which you are free to install whatever you like. Web hosting is to be added soon...
 
