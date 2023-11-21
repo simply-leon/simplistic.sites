@@ -6,6 +6,8 @@
 # simplistic.site
 An repository containing some really useful, simple, and free sites to use.
 
+I'm the original creator of this project, I'd gotten locked out of my previous account/original repository. This fork is the updated one that *hopefully* gets updates now and then.
+
 ### What exactly does this contain?
 This repository contains free to use sites that get their purpose done. For example, if you go to `imgur.com`. You'll probably upload or find some pictures. But the site asks you to login, make your own, etc. Even if you don't want to do that.
 
@@ -152,10 +154,10 @@ These applications are not that necessary for customization. They can be cpu-con
 [Winaero Tweaker](https://winaero.com/downloads/winaerotweaker.zip) - Tweak your windows settings, updates, register, etc. Contains many functions all in one app.
 ![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/PngItem5178921.png)
 
-[![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
+[![GitHub forks](https://badgen.net/github/forks/simply-leon/simplistic.sites/)](https://GitHub.com/Naereen/StrapDown.js/network/)
 
-[![GitHub stars](https://badgen.net/github/stars/LeonFinnaCrazy/simplistic.sites)](https://badgen.net/github/stars/LeonFinnaCrazy/simplistic.sites)
+[![GitHub stars](https://badgen.net/github/stars/simply-leon/simplistic.sites)](https://badgen.net/github/stars/LeonFinnaCrazy/simplistic.sites)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/LeonFinnaCrazy/simplistic.sites)](https://GitHub.com/LeonFinnaCrazy/simplistic.sites/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/simply-leon/simplistic.sites)](https://GitHub.com/LeonFinnaCrazy/simplistic.sites/graphs/contributors/)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
