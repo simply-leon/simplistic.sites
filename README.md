@@ -151,7 +151,7 @@ These applications are not that necessary for customization. They can be cpu-con
 
 [Notepad++](https://notepad-plus-plus.org/downloads/) - An advanced notepad. Simple and elegant
 
-[Winaero Tweaker](https://winaero.com/downloads/winaerotweaker.zip) - Tweak your windows settings, updates, register, etc. Contains many functions all in one app.
+[Winaero Tweaker](https://winaerotweaker.com/download/) - Tweak your windows settings, updates, register, etc. Contains many functions all in one app.
 ![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/PngItem5178921.png)
 
 [![GitHub forks](https://badgen.net/github/forks/simply-leon/simplistic.sites/)](https://GitHub.com/Naereen/StrapDown.js/network/)
